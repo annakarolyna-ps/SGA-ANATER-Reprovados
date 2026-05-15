@@ -110,5 +110,5 @@ SGA-ANATER-Reprovados/
 Graduanda em Ciência da Computação — UFU  
 Estagiária no Instituto Rede Terra  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anna%20Santos-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/annakarolynaps)
-[![GitHub](https://img.shields.io/badge/GitHub-annakarolyna--ps-black?style=flat&logo=github)](https://github.com/annakarolyna-ps)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anna%20Santos-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annakarolynaps)
+[![GitHub](https://img.shields.io/badge/GitHub-annakarolyna--ps-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/annaa-ps)
